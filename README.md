@@ -1,8 +1,9 @@
 # TestingWithDustin
-Fork Repo
-Clone Repo
-CD Into Repo
-
+1. Fork Repo
+2. Clone Repo
+3. CD Into Repo
+4. CD Into <react-app>
+  
 Install Dependencies:
 ```
 npm i
